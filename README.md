@@ -1,16 +1,19 @@
 # Thinkful-Diary
 Thinkful meetings - Mentor: Ateev Chopra
+
+## 01/04/2017
+
 * First video session, Very nice to meet you Ateev :smile:
 * reviewed some general concepts, background and introduction to GitHub
 * Discussed Google dev console - to follow-up
 * set-up preliminary schedule for call: Monday/Wednesday/Thursday - 11:30-12:30 EST
 
-# To Do: 
+### To Do: 
 
 1. create GitHub Diary
 2. review course material: Front-end Development - lesson 1 items 1 to 5
 
-# GitHub
+##### GitHub
 
 * Created repository "Thinkful-Diary"
 * Created branch "Readme-edits"
@@ -23,4 +26,17 @@ Thinkful meetings - Mentor: Ateev Chopra
 * reviewed and created pull request,
 * Merged pull request into master
 
-# Thinkful Course
+##### Thinkful Course
+
+* Read curriculum part 1 - Learning with Thinkful [x]
+* Front end development
+  - [X] Codepen 1 (Sally Student): http://codepen.io/aroose/pen/VPYjmP
+  - [X] Create local page
+  - [X] Publish to GitHub
+
+
+## 01/-5/2017
+
+* Discuss Capstone?
+* Editing repository on desktop?
+* reschedule Monday 01/09 session
