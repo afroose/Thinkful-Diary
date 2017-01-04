@@ -17,4 +17,10 @@ Thinkful meetings - Mentor: Ateev Chopra
 * Downloaded desktop app - Had trouble pushing edits (used vim to edit locally)
 * edited diary content on line
 
+(edits 2)
+
+* commited changes to Readme-edits,
+* reviewed and created pull request,
+* Merged pull request into master
+
 # Thinkful Course
