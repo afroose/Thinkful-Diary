@@ -35,6 +35,7 @@ Thinkful meetings - Mentor: Ateev Chopra
   - [X] Publish to GitHub
   - [X] Set up GitHub page: https://afroose.github.io/Project_1.3_About_me/
 
+Used Topstyle 5 instead of Sublime Text
 
 ## 01/-5/2017
 
