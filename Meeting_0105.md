@@ -7,4 +7,5 @@ Thinkful meetings - Mentor: Ateev Chopra
 
 To Do - publish exercises to GitHub from CodePen
 
-Create Capstone ideas repository - cooking classes/Form/Retrieve ID + Info Calendar/Animation
+Create Capstone ideas repository - cooking classes/Form/Retrieve ID + Info
+Calendar/Animation
