@@ -10,7 +10,7 @@ Thinkful meetings - Mentor: Ateev Chopra
 
 1. Front end development - Lesson 2 - Completed
 
-	* Semantic HTML - <p> for paragraph, <ul> for list etc...
+	* Semantic HTML - p for paragraph, ul for list etc...
 	* html reference list - https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 	* dev tools (Chrome)
 	* completed HTML drills, but they did not fork properly on CodePen, so did not save them
