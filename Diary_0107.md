@@ -11,6 +11,6 @@ Thinkful meetings - Mentor: Ateev Chopra
 	* completed CSS drills: http://codepen.io/aroose/pens/public/
 
 1. Front end development - Lesson 4 Git/GitHub - Completed
-	* completedchallend: https://github.com/afroose/lesson4_challenge
+	* completed challenge: https://github.com/afroose/lesson4_challenge
 
 
