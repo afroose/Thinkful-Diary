@@ -10,9 +10,7 @@ Thinkful meetings - Mentor: Ateev Chopra
 	* Completed Exercise 3 - Float Property: https://afroose.github.io/Project_5.2/float-exercise.html
 	* Completed Lesson 5 Challenge: https://afroose.github.io/Lesson5_Challenge/index.html
 
-I ran into problems with the alignment/ layout. All the elements required wer in, but the left margins looked wonky.
-
-
+I ran into problems with the alignment/ layout. All the elements required were in, but the left margins looked wonky.
 
 2. Front end development - Lesson 6 CSS  Layouts
 	* Completed Lesson  Challenge: https://afroose.github.io/Lesson6_Challenge/index.html
