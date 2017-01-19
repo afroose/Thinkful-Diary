@@ -10,7 +10,7 @@ Thinkful meetings - Mentor: Ateev Chopra
 		1. arrays and loops JSbin: https://gist.github.com/afroose/2940b8050713d057727fb3693018cbb5
 		2. Object.Keys and Factory functions: https://gist.github.com/afroose/bb1388c4a9eb43fe35716da0852c2ed1
 
-These lessons were quite a jump in comnplexity. I need to review and practice with the syntax in real examples.
+These lessons were quite a jump in complexity. I need to review and practice with the syntax in real examples.
 (for ex. reformatting pages using objects)
 
 ### To Do
