@@ -20,4 +20,4 @@ These lessons were quite a jump in comnplexity. I need to review and practice wi
 		1. how do I sync locally?
 		2. How do I clean repos?
 	* Responsive design - Fix grid using inline-block
-
+	* formatting pages using objects and functions (.map etc...)
